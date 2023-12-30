@@ -13,3 +13,21 @@ Here are some ideas to get you started:
 - 📫 How to reach me: ...
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
+$$ \ddot{x} $$
+
+$$ \iint{x} $$
+
+$$ \iint{x}_{a}^{b} $$
+
+$$ \int_{a}^{b}xdx $$
+
+$$ \iint_{a}^{b}xdx $$
+
+$$ \sum_{0}^{1} $$ 
+
+$$ A = 
+\begin{bmatrix}
+1 & 1 & 1 \\
+1 & 2 & 3 \\
+3 & 3 & 3
+\end{bmatrix} $$
