@@ -1,12 +1,12 @@
 ### Hi there 👋
 ![gersones](https://user-images.githubusercontent.com/62805855/112034622-70571600-8b1d-11eb-92e3-cba8b29f5651.png)
 <div>
-<img align="center" alt="Header" src="https://github.com/gersonES/gersonE/blob/main/img/header2.png?raw=true"/>
+<img align="center" alt="Header" src="https://github.com/gersonESS/gersonES/blob/main/img/header2.png?raw=true"/>
 </div>
 <div>
 <img align="center" alt="Header" src="https://github.com/joaopauloaramuni/joaopauloaramuni/blob/main/img/header2.png?raw=true"/>
 </div>
-**GersonESS/GersonESS** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+**GersonESS/GersonES** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 🌱 I’m currently learning ...
 Here are some ideas to get you started:
 
