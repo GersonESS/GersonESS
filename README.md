@@ -1,6 +1,6 @@
 ### Hi there 👋
 ![gersones](https://user-images.githubusercontent.com/62805855/112034622-70571600-8b1d-11eb-92e3-cba8b29f5651.png)
-
+img/header.png
 
 **GersonESS/GersonESS** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 🌱 I’m currently learning ...
