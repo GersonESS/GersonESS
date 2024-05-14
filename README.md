@@ -3,7 +3,9 @@
 <div>
 <img align="center" alt="Header" src="https://github.com/GersonES/GersonES/blob/main/img/header2.png?raw=true"/>
 </div>
-
+<div>
+<img align="center" alt="Header" src="https://github.com/joaopauloaramuni/joaopauloaramuni/blob/main/img/header2.png?raw=true"/>
+</div>
 **GersonESS/GersonESS** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 🌱 I’m currently learning ...
 Here are some ideas to get you started:
