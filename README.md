@@ -13,7 +13,7 @@
  <td align="center" colspan="11"></td>
 </tr> 
 <tr>
-<td><a href="https://github.com/GersonESS" target="_blank"><img src="https://github.com/GersonESS/GersonESS/blob/main/github5.png?raw=true" width="50px" height="50px"/></a>
+<td><a href="https://github.com/GersonESS" target="_blank"><img src="https://github.com/GersonESS/GersonESS/blob/main/img/github5.png?raw=true" width="50px" height="50px"/></a>
 </td>
 <td><a href="https://replit.com/@???????"><img src="https://github.com/GersonESS/GersonESS/blob/main/img/replit3.svg?raw=true" width="50px" height="50px"/></a>
 </td>
